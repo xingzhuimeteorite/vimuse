@@ -1,1 +1,1 @@
-source /path/to/init.vim
+IncScript init/viminit.vim
